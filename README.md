@@ -38,37 +38,36 @@ The objective is to track orders, revenue, and profit, and explore high-level tr
 4.	Created calculated columns for revenue and profit
 5.	Defined DAX measures for key KPIs
 6.	Designed an interactive dashboard with filters and trends
-## Dashboard
-# Key Dashboard Components:
-•	KPI Cards:
-o	Total Orders (current month)
-o	Total Revenue (current month)
-o	Total Profit (current month)
-•	Monthly trend indicators for each KPI
-•	Store location slicer
-•	Bar chart: Total Orders by Product Category
-•	Line chart: Total Revenue over time (date hierarchy)
-![Mexico Toy Sales Dashboard](mexico-toy-sales-dashboard.jpg)
-(Replace with your actual screenshot filename or raw GitHub image link)
-## Executive Summary
-# Overview of Findings
+# Dashboard
+## Key Dashboard Components
+- KPI Cards:
+  - Total Orders (current month)
+  - Total Revenue (current month)
+  - Total Profit (current month)
+- Monthly trend indicators for each KPI
+- Store location slicer
+- Bar chart: Total Orders by Product Category
+- Line chart: Total Revenue over time (date hierarchy)
+![Toy_Store_Power BI](https://github.com/user-attachments/assets/9d76914e-6a28-4408-a7b9-6c49e291acb4)
+# Executive Summary
+## Overview of Findings
 •	Sales performance varies significantly by product category
 •	Revenue and profit follow consistent seasonal patterns
 •	Certain categories drive high order volume but lower margins
-# Sales Trends
+## Sales Trends
 •	Monthly revenue shows clear upward and downward cycles
 •	Promotional or seasonal effects can be inferred from spikes
-# Product Performance
+## Product Performance
 •	A small number of product categories contribute a large share of total revenue
 •	Profitability does not always align with order volume
-## Project Insights
+# Project Insights
 •	Quantified Value:
 Identified top-performing categories contributing the majority of revenue.
 •	Business Metric Impact:
 Profit analysis highlights opportunities to optimize pricing and inventory.
 •	Trend Story:
 Revenue growth is driven more by timing and category mix than by store count alone.
-## Final Conclusion and Recommendations
+![Toy_Store_Power BI_2](https://github.com/user-attachments/assets/8277862a-d5f8-456d-834c-0458fb59e2c3)
 # Conclusion
 The Mexico Toy Sales dashboard provides a clear, executive-level view of business performance using reliable KPIs and intuitive visuals. It enables fast, data-driven decision-making.
 # Recommendations
