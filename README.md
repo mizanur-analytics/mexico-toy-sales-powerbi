@@ -1,28 +1,28 @@
-## Project Background
+# Project Background
 The Mexico Toy Sales project was created to build a simple yet effective KPI reporting dashboard for a fictional toy retail chain operating across Mexico.
 The objective is to track orders, revenue, and profit, and explore high-level trends across time, product categories, and store locations.
-## Dashboard Used
+# Dashboard Used
 - Power BI Desktop
 - Relational Data Model (Star Schema)
 - DAX Measures
 - KPI Cards, Slicers, Bar & Line Charts
-## Data Structure
-# Data Sources (CSV Files): 
-- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/sales.csv">Dataset</a>
-- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/stores.csv">Dataset</a>
-- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/products.csv">Dataset</a>
-- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/calendar.csv">Dataset</a>
+# Data Structure
+## Data Sources (CSV Files): 
+- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/sales.csv">sales</a>
+- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/stores.csv">stores</a>
+- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/products.csv">products</a>
+- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/calendar.csv">calendar</a>
 - sales – transaction-level sales data (fact table)
 - products – product details, pricing, and cost
 - stores – store location information
 - calendar – date dimension
-# Key Data Preparation Steps:
+## Key Data Preparation Steps:
 •	Reviewed columns, data types, and null values
 •	Identified primary and foreign keys
 •	Added calculated date fields:
 o	Start of Month
 o	Start of Week
-# Data Model:
+## Data Model:
 •	Star schema with sales as the fact table
 •	One-to-many relationships to:
 o	Products
