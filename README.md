@@ -70,7 +70,7 @@ Revenue growth is driven more by timing and category mix than by store count alo
 ![Toy_Store_Power BI_2](https://github.com/user-attachments/assets/8277862a-d5f8-456d-834c-0458fb59e2c3)
 # Conclusion
 The Mexico Toy Sales dashboard provides a clear, executive-level view of business performance using reliable KPIs and intuitive visuals. It enables fast, data-driven decision-making.
-# Recommendations
+## Recommendations
 -	Focus marketing efforts on high-margin product categories
 -	Investigate low-profit, high-volume products for pricing optimization
 -	Extend the model with inventory turnover or forecasted demand metrics
