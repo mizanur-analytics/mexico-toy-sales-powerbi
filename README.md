@@ -51,26 +51,26 @@ The objective is to track orders, revenue, and profit, and explore high-level tr
 ![Toy_Store_Power BI](https://github.com/user-attachments/assets/9d76914e-6a28-4408-a7b9-6c49e291acb4)
 # Executive Summary
 ## Overview of Findings
-•	Sales performance varies significantly by product category
-•	Revenue and profit follow consistent seasonal patterns
-•	Certain categories drive high order volume but lower margins
+- Sales performance varies significantly by product category
+- Revenue and profit follow consistent seasonal patterns
+- Certain categories drive high order volume but lower margins
 ## Sales Trends
-•	Monthly revenue shows clear upward and downward cycles
-•	Promotional or seasonal effects can be inferred from spikes
+- Monthly revenue shows clear upward and downward cycles
+- Promotional or seasonal effects can be inferred from spikes
 ## Product Performance
-•	A small number of product categories contribute a large share of total revenue
-•	Profitability does not always align with order volume
+- A small number of product categories contribute a large share of total revenue
+- Profitability does not always align with order volume
 # Project Insights
-•	Quantified Value:
+-	Quantified Value:
 Identified top-performing categories contributing the majority of revenue.
-•	Business Metric Impact:
+-	Business Metric Impact:
 Profit analysis highlights opportunities to optimize pricing and inventory.
-•	Trend Story:
+-	Trend Story:
 Revenue growth is driven more by timing and category mix than by store count alone.
 ![Toy_Store_Power BI_2](https://github.com/user-attachments/assets/8277862a-d5f8-456d-834c-0458fb59e2c3)
 # Conclusion
 The Mexico Toy Sales dashboard provides a clear, executive-level view of business performance using reliable KPIs and intuitive visuals. It enables fast, data-driven decision-making.
 # Recommendations
-•	Focus marketing efforts on high-margin product categories
-•	Investigate low-profit, high-volume products for pricing optimization
-•	Extend the model with inventory turnover or forecasted demand metrics
+-	Focus marketing efforts on high-margin product categories
+-	Investigate low-profit, high-volume products for pricing optimization
+-	Extend the model with inventory turnover or forecasted demand metrics
