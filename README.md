@@ -12,29 +12,25 @@ The objective is to track orders, revenue, and profit, and explore high-level tr
 - <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/stores.csv">stores</a>
 - <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/products.csv">products</a>
 - <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/calendar.csv">calendar</a>
-- sales – transaction-level sales data (fact table)
-- products – product details, pricing, and cost
-- stores – store location information
-- calendar – date dimension
-## Key Data Preparation Steps:
-•	Reviewed columns, data types, and null values
-•	Identified primary and foreign keys
-•	Added calculated date fields:
-o	Start of Month
-o	Start of Week
-## Data Model:
-•	Star schema with sales as the fact table
-•	One-to-many relationships to:
-o	Products
-o	Stores
-o	Calendar
-•	Foreign keys hidden from report view
-# Questions (KPIs)
-•	How many orders were placed?
-•	What is the total revenue and total profit?
-•	How do sales and profits trend over time?
-•	Which product categories generate the most orders?
-•	How does performance vary by store location?
+## Key Data Preparation Steps
+- Reviewed columns, data types, and null values
+- Identified primary and foreign keys
+- Added calculated date fields:
+  - Start of Month
+  - Start of Week
+## Data Model
+- Star schema with sales as the fact table
+- One-to-many relationships to:
+  - Products
+  - Stores
+  - Calendar
+- Foreign keys hidden from report view
+## Questions (KPIs)
+- How many orders were placed?
+- What is the total revenue and total profit?
+- How do sales and profits trend over time?
+- Which product categories generate the most orders?
+- How does performance vary by store location?
 ## Process
 1.	Connected Power BI to all source CSV files
 2.	Profiled data for quality, completeness, and accuracy
