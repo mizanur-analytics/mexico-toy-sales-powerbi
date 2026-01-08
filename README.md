@@ -1,3 +1,5 @@
+# Mexico Toy Sales
+![Toy_store_Dash](https://github.com/user-attachments/assets/6da6c05a-acf5-46c7-bef4-d5a98a91999a)
 # Project Background
 The Mexico Toy Sales project was created to build a simple yet effective KPI reporting dashboard for a fictional toy retail chain operating across Mexico.
 The objective is to track orders, revenue, and profit, and explore high-level trends across time, product categories, and store locations.
