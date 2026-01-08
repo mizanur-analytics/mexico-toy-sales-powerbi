@@ -2,10 +2,10 @@
 The Mexico Toy Sales project was created to build a simple yet effective KPI reporting dashboard for a fictional toy retail chain operating across Mexico.
 The objective is to track orders, revenue, and profit, and explore high-level trends across time, product categories, and store locations.
 ## Dashboard Used
-•	Power BI Desktop
-•	Relational Data Model (Star Schema)
-•	DAX Measures
-•	KPI Cards, Slicers, Bar & Line Charts
+- Power BI Desktop
+- Relational Data Model (Star Schema)
+- DAX Measures
+- KPI Cards, Slicers, Bar & Line Charts
 ## Data Structure
 # Data Sources (CSV Files):
 •	sales – transaction-level sales data (fact table)
