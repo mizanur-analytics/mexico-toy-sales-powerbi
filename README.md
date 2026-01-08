@@ -7,11 +7,15 @@ The objective is to track orders, revenue, and profit, and explore high-level tr
 - DAX Measures
 - KPI Cards, Slicers, Bar & Line Charts
 ## Data Structure
-# Data Sources (CSV Files):
-•	sales – transaction-level sales data (fact table)
-•	products – product details, pricing, and cost
-•	stores – store location information
-•	calendar – date dimension
+# Data Sources (CSV Files): 
+- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/sales.csv">Dataset</a>
+- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/stores.csv">Dataset</a>
+- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/products.csv">Dataset</a>
+- <a href = "https://github.com/mizanur-analytics/mexico-toy-sales-powerbi/blob/main/calendar.csv">Dataset</a>
+- sales – transaction-level sales data (fact table)
+- products – product details, pricing, and cost
+- stores – store location information
+- calendar – date dimension
 # Key Data Preparation Steps:
 •	Reviewed columns, data types, and null values
 •	Identified primary and foreign keys
